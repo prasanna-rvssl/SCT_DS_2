@@ -59,6 +59,7 @@ The following analyses were performed:
 - Seaborn
 - Jupyter Notebook
 
-## Project File
+## Project Files
 
-`Task_02_Titanic_EDA.ipynb`
+- [Titanic EDA Notebook](SCT_DS_2_Titanic_EDA.ipynb)
+- [Titanic Dataset](train.csv)
